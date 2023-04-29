@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro section with dropdown navigation
 
-![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Intro section with dropdown navigation coding challenge](./Frontend-Mentor-Project_vite-project at master · Richard200300_Frontend-Mentor-Project - Google Chrome 4_29_2023 07_46_27 PM (1).png.jpg)
 
 ## Welcome! 👋
 
