@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Frontend-Mentor-Project_vite-project at master · Richard200300_Frontend-Mentor-Project - Google Chrome 4_29_2023 07_46_27 PM (1)jpg)
+(./Frontend-Mentor-Project_vite-project at master · Richard200300_Frontend-Mentor-Project - Google Chrome 4_29_2023 07_46_27 PM (1)jpg)
 
 
 
