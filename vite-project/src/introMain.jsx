@@ -3,10 +3,10 @@ import Navbar from './navbar';
 import Body from "./body"
 function IntroMain() {
   return (
-    <div className='intro-cont'>
+    <section className='intro-cont'>
       <Navbar />
       <Body />
-    </div>
+    </section>
   )
 }
 

@@ -9,7 +9,7 @@ function Navbar() {
     <section>
       <div className="flex atc navbar jcSb">
         <section className="flex atc">
-          <img src="logo.png" className="img-logo" />
+          <img src="logo.png" className="img-logo" alt="logo.png"/>
           <section
             className={`${
               togglenavmenu ? "nav-list-container" : "nav-list-container-active"

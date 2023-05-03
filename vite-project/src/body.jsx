@@ -2,7 +2,7 @@ import React from "react";
 
 function Body() {
   return (
-    <div className="body-section flex jcSb">
+    <section className="body-section flex jcSb">
       <div className="header-container">
         <div className="mobile-img-container">
         < img src='image-hero-mobile.png' alt='image-hero-mobile.png' className="mobille-img"/>
@@ -22,9 +22,9 @@ function Body() {
         </div>
       </div>
       <div className="img-container">
-        <img src="image-hero-desktop.png" className="img"/>
+        <img src="image-hero-desktop.png" className="img" alt="image-hero-desktop.png"/>
       </div>
-    </div>
+    </section>
   );
 }
 
